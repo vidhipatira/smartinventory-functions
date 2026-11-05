@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "smartinventory_functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7120",
+      "launchBrowser": false
+    }
+  }
+}
